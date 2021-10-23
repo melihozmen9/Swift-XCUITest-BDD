@@ -12,3 +12,35 @@ https://youtu.be/fMQZubJgRAc
 
 **Getting Started:**
 
+This document will help you to debug your iOS App with Xcode and Run your test scenarios with CI/CD integrations.
+
+
+![image](https://user-images.githubusercontent.com/89974862/138561502-9707a7ea-091c-40ba-8b44-db235a686d6e.png)
+
+----------
+
+**Example App:**
+
+Example App is a calculator app project with Swift. That App will be under test with XCUITest within the same Xcode project.
+
+https://github.com/Shubham0812/Calculator_UI
+
+![image](https://user-images.githubusercontent.com/89974862/138561626-8c9fcdc8-0418-446b-981c-35a0a5926ee6.png)
+
+----------
+
+**Helpful Docs:**
+
+https://developer.apple.com/documentation/xctest
+
+https://developer.apple.com/documentation/xctest/user_interface_tests
+
+https://brew.sh/index_tr
+
+https://www.python.org/downloads/
+
+https://github.com/facebook/idb
+
+https://developer.apple.com/xcode/resources/
+
+https://www.jenkins.io/
