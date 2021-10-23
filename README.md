@@ -28,6 +28,11 @@ https://github.com/Shubham0812/Calculator_UI
 ![image](https://user-images.githubusercontent.com/89974862/138561626-8c9fcdc8-0418-446b-981c-35a0a5926ee6.png)
 
 ----------
+**BDD support in scenarios:**
+
+![image](https://user-images.githubusercontent.com/89974862/138561748-95e4b702-cf78-4407-800a-4f083c607017.png)
+
+----------
 
 **Helpful Docs:**
 
