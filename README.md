@@ -39,6 +39,12 @@ https://github.com/Shubham0812/Calculator_UI
 
 ![image](https://user-images.githubusercontent.com/89974862/138599825-bb09e4d8-16f8-4f37-9738-48ff2cc94975.png)
 
+**Warning-1:** iOS deployment target for the XCUITest must be the same with target App's.
+
+**Warning-2:** If you have got an error while running this sample project click Product-> Clean build folder, Product -> Clean Test results.. and try again to run tests.
+
+**Warning-3:** If you have got an error about app signing open Sİgning and capabilities to set your Apple Development Team and certificate
+
 ----------
 
 **Test Navigator:**
