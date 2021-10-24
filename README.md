@@ -28,9 +28,22 @@ https://github.com/Shubham0812/Calculator_UI
 ![image](https://user-images.githubusercontent.com/89974862/138561626-8c9fcdc8-0418-446b-981c-35a0a5926ee6.png)
 
 ----------
+
 **BDD support in scenarios:**
 
 ![image](https://user-images.githubusercontent.com/89974862/138561748-95e4b702-cf78-4407-800a-4f083c607017.png)
+
+----------
+
+**Project Structure:**
+
+![image](https://user-images.githubusercontent.com/89974862/138599825-bb09e4d8-16f8-4f37-9738-48ff2cc94975.png)
+
+----------
+
+**Test Navigator:**
+
+![image](https://user-images.githubusercontent.com/89974862/138599889-30f256bc-566c-4354-af40-d0092291fd42.png)
 
 ----------
 
