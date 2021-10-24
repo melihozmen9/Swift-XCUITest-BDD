@@ -53,6 +53,61 @@ https://github.com/Shubham0812/Calculator_UI
 
 ----------
 
+**Common IDB Commands**
+
+Open terminal window and run the following IDB commands with parameters if you need.
+
+Help
+
+    Idb -h
+    
+  
+List all available simulators and connected iOS devices
+
+    Idb list-targets
+    
+  
+Open specified simulator/real device with UDID number
+
+    idb boot YOUR_DEVICE_UDID
+    
+  
+List installed applicatioon on target device
+
+    idb list-apps --udid YOUR_DEVICE_UDID
+    
+
+Launch the example Calculator applicatioon on target device
+
+    Idb launch com.shubham-iosdev.Calculator-UI
+    
+
+Record a video on target device
+
+    idb record video --udid YOUR_DEVICE_UDID --json /Users/YOUR_USER/Downloads/recordingvideo.mp4
+    
+
+Take a screenshot on target device
+
+    idb screenshot --udid YOUR_DEVICE_UDID --json /Users/YOUR_USER/Downloads/capturescreenshot.png
+    
+  
+View logs and processes on target device  
+
+    idb log --udid YOUR_DEVICE_UDID
+  
+  ----------
+  
+  **Start tests from Terminal window or CI/CD tools :**
+  
+  Enter the project folder from terminal and run the following example code. You can change your device's iOS version and device name.
+  
+      xcodebuild -project Calculator_UI.xcodeproj/ -scheme Calculator_UI -destination 'platform=iOS Simulator,OS=15.0,name=iPhone 13 Pro' clean build test
+
+  
+  
+  ----------
+
 **Helpful Docs:**
 
 https://developer.apple.com/documentation/xctest
