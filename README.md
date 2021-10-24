@@ -55,9 +55,9 @@ https://github.com/Shubham0812/Calculator_UI
 
 **Test Recording and running:**
 
-Click any test function and Recording option will be anabled at bottom. Click it to start generating your test scripts.
+Click any test function and the Recording option will be enabled at the bottom. Click it to start generating your test scripts.
 
-Click the play button that's left on the class name or function name to start your testrun.
+Click the play button that's left on the class name or function name to start your test run.
 
 ![image](https://user-images.githubusercontent.com/89974862/138609279-61ad9b58-e28e-4f8e-ba11-4b85945d9e46.png)
 
