@@ -65,6 +65,8 @@ Click the play button that's left on the class name or function name to start yo
 
 **Common IDB Commands**
 
+IDB is a command-line utility to access and manage your iOS simulators or real devices. For more information -> https://fbidb.io/
+
 Open the terminal window and run the following IDB commands with parameters if you need them.
 
 Get help
