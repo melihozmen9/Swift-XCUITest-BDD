@@ -29,7 +29,7 @@ final class AddNumberTests: XCUITestCase {
         When("Add two numbers") {
             calcTwoNumbersWithParam(firstNumber: "3",
                                     calculationType: "+",
-                                    secondNumber: "3")
+                                    secondNumber: "4")
         }
         
         Then("Addition result shown") {
